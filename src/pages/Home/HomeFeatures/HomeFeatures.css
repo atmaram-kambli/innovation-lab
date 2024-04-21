@@ -1,0 +1,43 @@
+.homefeatures {
+    padding: 100px;
+    padding-top: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+.homefeatures .head {
+    font-size: 36px;
+    font-weight: 700;
+}
+.features {
+    display: flex;
+    margin-top: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px 20px;
+}
+.feature {
+    width: 320px;
+    padding: 20px;
+    border-radius: 8px;
+}
+.feature > h2 {
+    font-size: 26px;
+    font-weight: 600;
+}
+.homefeatures  p {
+    text-align: justify;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+@media screen and (max-width: 992px) {
+    .homefeatures {
+        padding: 40px 10px;
+    }
+    .homefeatures .head {
+        font-size: 34px;
+        font-weight: 600;
+    }
+}

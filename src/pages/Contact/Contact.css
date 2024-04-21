@@ -1,0 +1,17 @@
+
+.info-box {
+    display: flex;
+    align-items: center;
+    column-gap: 20px;
+}
+
+.info-box>i {
+    font-size: 30px;
+    padding: 8px;
+    color: rgb(74, 193, 240);
+}
+
+.info-head {
+    font-weight: 600;
+    font-size: 16px;
+}
