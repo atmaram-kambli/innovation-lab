@@ -27,7 +27,7 @@ function Contact() {
                   <i className="fas fa-envelope"></i>
                   <div className="info">
                       <h4 className="info-head">E-mail</h4>
-                      <p>innovation.lab01@gmail.com</p>
+                      <p>innovationlab019@gmail.com</p>
                   </div>
               </div>
             </div>

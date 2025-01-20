@@ -15,7 +15,7 @@ const ProjectItem = ({ id, headName, desc }) => {
             </div>
             {/* <hr className='bg-primary mx-auto mb-2 mt-0' style={{ height: "2px"}} /> */}
             <Link to="/contact">
-                <button className='mx-auto mx-lg-0' onClick={() => {window.scrollTo(0, 0)}} >Request for Demo</button>
+                <button className='mx-auto d-block d-lg-inline mx-lg-0' onClick={() => {window.scrollTo(0, 0)}} >Request for Demo</button>
             </Link>
         </div>
     )

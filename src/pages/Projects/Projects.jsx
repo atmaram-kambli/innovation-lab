@@ -9,37 +9,37 @@ const Projects = () => {
         {
             id: 1,
             projectName: "AcquScribe",
-            desc: "AquaScribe is a smart water management system that leverages IoT sensors, ML Algorithms and automation to optimize irrigation processes in real-time"
+            desc: "AquaScribe is a smart water management system that leverages IoT sensors, ML Algorithms and automation to optimize irrigation system"
         },
         {
             id: 2,
-            projectName: "Project 1",
-            desc: "Lorem23 This is something that you can't imagine, so leave it to ourselves and chill"
+            projectName: "Gym Branch",
+            desc: "Gym Branch is computer vision based software system for tracking correctness of workout movements."
         },
         {
             id: 3,
-            projectName: "Project 1",
-            desc: "Lorem23 This is something that you can't imagine, so leave it to ourselves and chill"
+            projectName: "Smart Energy Meter",
+            desc: "The IoT based smart energy meter project aims to address the growing demand for real-time monitoring and management solutions by leveraging IoT technology."
         },
         {
             id: 4,
-            projectName: "Project 1",
-            desc: "Lorem23 This is something that you can't imagine, so leave it to ourselves and chill"
+            projectName: "Noise Reduction Project",
+            desc: "The Noise Reduction system is the project simulated using Kalman filter in MATLAB."
         },
         {
             id: 5,
-            projectName: "Project 1",
-            desc: "Lorem23 This is something that you can't imagine, so leave it to ourselves and chill"
+            projectName: "Waste Segregation system",
+            desc: "Project Aims to Segreate waste based on their material properties which promotes waste management"
         },
         {
             id: 6,
-            projectName: "Project 1",
-            desc: "Lorem23 This is something that you can't imagine, so leave it to ourselves and chill"
+            projectName: "Plant Growth Enhancement",
+            desc: "This projectes showcase how copper coils will increase plant production or yeild of crops"
         },
         {
             id: 7,
-            projectName: "Project 1",
-            desc: "Lorem23 This is something that you can't imagine, so leave it to ourselves and chill"
+            projectName: "Street Light Control System",
+            desc: "This project focuses on energy wasteage of public area and promotes human safety"
         },
     ];
     return (
