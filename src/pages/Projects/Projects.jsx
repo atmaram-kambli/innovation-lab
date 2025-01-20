@@ -19,7 +19,7 @@ const Projects = () => {
         {
             id: 3,
             projectName: "Smart Energy Meter",
-            desc: "The IoT based smart energy meter project aims to address the growing demand for real-time monitoring and management solutions by leveraging IoT technology."
+            desc: "The IoT based smart energy meter project aims to address the growing demand for real-time monitoring and management solutions."
         },
         {
             id: 4,
